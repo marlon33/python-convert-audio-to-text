@@ -12,5 +12,6 @@ pip install -r requirements.txt
 
 Adicione o video que deseja extrair o texto dentro da pasta videos, após isso rode o comando
 ```bash
-python3 main.py```
+python3 main.py
+```
 e veja a magica acontecer
